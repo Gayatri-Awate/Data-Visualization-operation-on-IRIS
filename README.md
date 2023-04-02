@@ -1,2 +1,10 @@
 # Data-Visualization-operation-on-IRIS
-Perform data visualization operations on IRIS data set. 
+ 
+Perform the following data visualization operation on
+IRIS data set.
+Use ploty to plot following graph
+• Line
+• Bar
+• Box
+• Scatter
+• ML graph
